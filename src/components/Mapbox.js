@@ -209,7 +209,7 @@ const Mapbox = ({ allCoordinates }) => {
                 </div>
                 <div className={`shown-overlay ${showState ? '' : 'hide-overlay'}`}>
                     <fieldset>
-                        <legend>Simple Covid-19 Map</legend>
+                        <legend>Simple COVID-19 Map</legend>
                         <hr className={'divider-overlay'} />
                         <div className={'map-overlay-content'}>
                         </div>
