@@ -34,3 +34,6 @@ yarn start
 npm build 
 ```
 atau 
+```
+yarn build
+```
